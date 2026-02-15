@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ My Tech Stack
+## 💻 My Tech Stack
 
 - Java
 - Python
