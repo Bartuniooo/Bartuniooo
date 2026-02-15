@@ -12,7 +12,6 @@
 - Python
 - HTML / CSS
 - MySQL / SQLite / PostgreSQL / MongoDB
-- Arduino
 
 ---
 
