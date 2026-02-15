@@ -1,4 +1,26 @@
-## Hi there 👋
+## 👋 Hi there # I'm Bartek 👋
+
+🎓 Geoinformatic graduate   
+💻 Passionate about C++, Python and web development  
+🚀 Always learning something new  
+
+---
+
+## 🛠️ My Tech Stack
+
+- Java
+- Python
+- HTML / CSS
+- MySQL / SQLite / PostgreSQL / MongoDB
+- Arduino
+
+---
+
+## 📫 Contact
+
+- LinkedIn: 
+- Email: twoj@email.com
+- What's up: B.Stach
 
 <!--
 **Bartuniooo/Bartuniooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
