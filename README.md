@@ -1,7 +1,7 @@
 ## 👋 Hi there I'm Bartek
 
 🎓 Geoinformatic graduate   
-💻 Passionate about C++, Python and web development  
+💻 Passionate about Java, Python and Rust   
 🚀 Always learning something new  
 
 ---
