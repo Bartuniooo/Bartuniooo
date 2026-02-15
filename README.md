@@ -1,4 +1,4 @@
-## 👋 Hi there I'm Bartek 👋
+## 👋 Hi there I'm Bartek
 
 🎓 Geoinformatic graduate   
 💻 Passionate about C++, Python and web development  
