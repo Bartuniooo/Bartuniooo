@@ -37,11 +37,13 @@ My name is Bartek. I focus on building projects that develop my skills, especial
 
 
 ---
+
+<details>
+  <summary>My story with code</summary>
+    <br>
+    Coming soon
+
+
+
 [![](https://visitcount.itsvg.in/api?id=Bartuniooo&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
