@@ -4,15 +4,15 @@
 💻 Passionate about Java, Python and Rust <br>
 🚀 Always learning something new  <br>
 
----
+
 ## 👩‍💻 About me
 My name is Bartek. I focus on building projects that develop my skills, especially in four main niches.
-  1. Learn the fundaments
-  2. Learn on practical business task
+  1. Mastering the fundamentals
+  2. Applying knowledge to build real-world business apps and solve real problems
   3. Solve my daily problems and can be usefull for others
   4. Is deeply curious
 
----
+
 
 ## 💻 My Tech Stack
 
