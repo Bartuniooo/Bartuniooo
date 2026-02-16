@@ -1,8 +1,16 @@
 ## 👋 Hi there I'm Bartek
 
-🎓 Geoinformatic graduate   
-💻 Passionate about Java, Python and Rust   
+🎓 Geoinformatic graduate at Cracow University of Technologies
+💻 Passionate about Java, Python and Rust 
 🚀 Always learning something new  
+
+---
+## 👩‍💻 About me
+My name is Bartek I focusing on build projects which develop my skills espetialy in four main niches.
+  1. Learn the fundaments
+  2. Learn on practical business task
+  3. Solve my daily problems and can be usefull for others
+  4. Is deeply curious
 
 ---
 
