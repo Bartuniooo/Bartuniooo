@@ -43,10 +43,6 @@ My name is Bartek. I focus on building projects that develop my skills, especial
 
 ---
 
-<details>
-  <summary>My story with code</summary>
-    <br>
-    Coming soon
 
 
 
