@@ -1,7 +1,7 @@
 ## 👋 Hi there I'm Bartek
 
 🎓 Geoinformatic graduate at Cracow University of Technologies <br>
-💻 Passionate about Java, Python and Rust <br>
+💻 Passionate about coding in Java, Python and Rust and wide Cybersecurity <br>
 🚀 Always learning something new  <br>
 🧮 Love math and coding on curious problems <br>
 
