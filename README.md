@@ -2,6 +2,7 @@
 
 🎓 Geoinformatic graduate at Cracow University of Technologies <br>
 💻 Passionate about Java, Python and Rust <br>
+🧮 Love math and coding <br>
 🚀 Always learning something new  <br>
 
 
