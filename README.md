@@ -7,7 +7,7 @@
 
 
 ## 👩‍💻 About me
-My name is Bartek. I focus on building projects that develop my skills, especially in four main niches which causes a better understanding a business problems, solves my problem gets me strong fundament and is curious and fun. Here are the niches:
+My name is Bartek. I focus on building projects that develop my skills, especially in four main niches which causes a better understanding a business problems, solves my daily problem, gets me strong fundament of computer science and is curious & fun you will find a project for each of them. Here are the four niches:
 1. **Mastering the fundamentals of how technology works under the hood**
 2. **Applying knowledge to build real-world business apps and solve real problems**
 3. **Solve my daily problems and can be useful for others**
