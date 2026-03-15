@@ -1,7 +1,7 @@
 ## 👋 Hi there I'm Bartek
 
 🎓 Geoinformatic graduate at Cracow University of Technologies <br>
-💻 Passionate about building software in Java, Python, and Rust, with focus on Cybersecurity and secure systems <br>
+💻 Passionate about building software in Java, Python, with focus on Cybersecurity and secure systems <br>
 🚀 Always learning something new  <br>
 🧮 Love math and coding on curious problems <br>
 
@@ -31,9 +31,6 @@ I focus on building projects that develop my skills, especially in four main nic
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
  <br>
-
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=f74b00) 
-<br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
